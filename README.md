@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serje3. Junior Software Engineer. 20 years old.
+- 👋 Hi, I’m @serje3. Software Engineer. 20 years old.
 
 
 <!---
