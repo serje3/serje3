@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serje3. Software Engineer. 21 years old.
+## f"Hi, I’m @serje3. Software Engineer. {(now - datetime(2002, 12, 28)).days // 365} years old."
 
 
 <!---
