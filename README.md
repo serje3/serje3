@@ -1,4 +1,4 @@
-## f"Hi, I’m @serje3. Software Engineer. `22` years old."
+## Hi, I’m @serje3. Software Engineer. `22` years old.
 
 
 <!---
